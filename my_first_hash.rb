@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = { "LAX" => "sunny", "SFO" => cloudy, "SEA" => "rainy"}
+  your_hash = { "LAX" => "sunny", "SFO" => "cloudy", "SEA" => "rainy"}
 end
 
 
